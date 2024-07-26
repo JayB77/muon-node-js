@@ -1,3 +1,4 @@
+name: muon-node
 services:
   muon_api:
     container_name: docker-node-mongo-redis
